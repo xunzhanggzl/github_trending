@@ -1,0 +1,26 @@
+{
+  "name": "github_trending",
+  "version": "1.0.0",
+  "description": "Tracking the most popular Github repos(node.js version)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xunzhanggzl/github_trending.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xunzhanggzl/github_trending/issues"
+  },
+  "homepage": "https://github.com/xunzhanggzl/github_trending#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "debug": "^4.1.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  }
+}
